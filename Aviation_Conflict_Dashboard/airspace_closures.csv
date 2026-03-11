@@ -1,0 +1,26 @@
+country,region,closure_start_time,closure_end_time,closure_reason,authority,NOTAM_reference,closure_duration_hours
+Iran,Tehran FIR,2026-02-28 21:00:00+00:00,2026-03-07 23:59:00+00:00,Active conflict - military operations,ICAO / CAOI,A1420/26,170.98333333333332
+Iran,Esfahan FIR,2026-02-28 21:00:00+00:00,2026-03-07 23:59:00+00:00,Active conflict - airspace militarization,CAOI,A1421/26,170.98333333333332
+Iraq,Baghdad FIR,2026-03-01 00:30:00+00:00,2026-03-05 12:00:00+00:00,Proximity to conflict zone - EASA Level 2 advisory,GCAA Iraq,A0330/26,107.5
+Saudi Arabia,Jeddah FIR,2026-03-01 02:00:00+00:00,2026-03-02 18:00:00+00:00,Precautionary airspace restriction - missile threat,GACA,A0712/26,40.0
+UAE,Emirates FIR,2026-03-01 03:00:00+00:00,2026-03-01 18:00:00+00:00,Temporary SIGMET - unknown airborne objects,GCAA UAE,A0891/26,15.0
+Kuwait,Kuwait FIR,2026-03-01 00:00:00+00:00,2026-03-03 06:00:00+00:00,Conflict proximity advisory - restricted below FL250,CAAK,A0101/26,54.0
+Bahrain,Bahrain FIR,2026-03-01 01:00:00+00:00,2026-03-02 23:59:00+00:00,Military NOTAM - airspace reserved for coalition forces,Civil Aviation Affairs BH,A0200/26,46.983333333333334
+Oman,Muscat FIR,2026-03-01 04:00:00+00:00,2026-03-03 10:00:00+00:00,Precautionary route restriction FL290 and below,CAAM Oman,A0311/26,54.0
+Pakistan,Karachi FIR,2026-03-01 06:00:00+00:00,2026-03-04 00:00:00+00:00,Airspace restriction - conflict zone buffer protocol,CAA Pakistan,A0440/26,66.0
+Jordan,Amman FIR,2026-03-01 02:30:00+00:00,2026-03-04 20:00:00+00:00,Precautionary closure - proximity to Iranian airspace,CARC Jordan,A0520/26,89.5
+Israel,Tel Aviv FIR,2026-02-28 22:00:00+00:00,2026-03-07 23:59:00+00:00,Active military engagement - FL000-FL600 closed,IAA,A0660/26,169.98333333333332
+Turkey,Ankara FIR,2026-03-01 08:00:00+00:00,2026-03-02 20:00:00+00:00,Precautionary advisory - eastern sector restriction,DHMI,A0750/26,36.0
+Azerbaijan,Baku FIR,2026-03-01 10:00:00+00:00,2026-03-03 18:00:00+00:00,Active conflict proximity - northern Iran border buffer,CAA Azerbaijan,A0820/26,56.0
+Turkmenistan,Ashgabat FIR,2026-03-01 12:00:00+00:00,2026-03-04 06:00:00+00:00,Precautionary restriction - eastern Iran border zone,CAA Turkmenistan,A0910/26,66.0
+Afghanistan,Kabul FIR,2026-03-01 08:00:00+00:00,2026-03-06 23:59:00+00:00,Full airspace closure - conflict spillover risk,ACAA,A1010/26,135.98333333333332
+Armenia,Yerevan FIR,2026-03-02 00:00:00+00:00,2026-03-04 12:00:00+00:00,Precautionary restriction - EASA Level 1 advisory,CAA Armenia,A0055/26,60.0
+Georgia,Tbilisi FIR,2026-03-02 04:00:00+00:00,2026-03-03 23:59:00+00:00,Precautionary NOTAM - southern route restriction,Georgian CAA,A0140/26,43.983333333333334
+India,Mumbai FIR,2026-03-01 14:00:00+00:00,2026-03-02 06:00:00+00:00,Precautionary deviation advisory - Gulf of Oman routing,DGCA India,A1700/26,16.0
+Russia,Moscow FIR (South),2026-03-01 18:00:00+00:00,2026-03-03 06:00:00+00:00,Voluntary routing restriction - Caspian sector,Rosaviatsia,A2200/26,36.0
+Egypt,Cairo FIR,2026-03-01 06:00:00+00:00,2026-03-03 18:00:00+00:00,Precautionary advisory - eastern Mediterranean routing,ECAA,A0800/26,60.0
+Cyprus,Nicosia FIR,2026-03-01 08:00:00+00:00,2026-03-03 12:00:00+00:00,Precautionary restriction - eastern Mediterranean sector,DCA Cyprus,A0060/26,52.0
+Greece,Athens FIR,2026-03-01 10:00:00+00:00,2026-03-02 20:00:00+00:00,Advisory restriction - Aegean eastern sector,HCAA,A0920/26,34.0
+Qatar,Doha FIR,2026-03-01 00:30:00+00:00,2026-03-02 12:00:00+00:00,Precautionary restriction - Gulf airspace buffer,CAA Qatar,A0330/26,35.5
+Kazakhstan,Almaty FIR,2026-03-02 06:00:00+00:00,2026-03-04 18:00:00+00:00,Precautionary restriction - Caspian Sea sector,CAA Kazakhstan,A0510/26,60.0
+Yemen,Sana'a FIR,2026-03-01 00:00:00+00:00,2026-03-07 23:59:00+00:00,Conflict zone - active operations,CAMA Yemen,A0099/26,167.98333333333332
